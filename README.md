@@ -10,7 +10,7 @@ Experiencia com atendimento ao cliente e eventos, em transição de carreira par
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gaby-kern&repo=Echo-Music.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gaby-kern&repo=echo-music.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
