@@ -2,7 +2,9 @@
 
 
 ###### Sobre Gabriela
-Experiencia com atendimento ao cliente e eventos, em transição de carreira para a área de dados.
+Experiencia com atendimento ao cliente e eventos, em transição de carreira para a área de dados. 
+
+Formada pela EBAC (Escola Britânica de Artes Criativas & Tecnologia) em 06/25 no curso de Análise de dados
 
 ### Detalhes
 
