@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-###### Sobre Gabriela
+### Sobre Gabriela
 Experiencia com atendimento ao cliente e eventos, em transição de carreira para a área de dados. 
 
 Formada pela EBAC (Escola Britânica de Artes Criativas & Tecnologia) em 06/25 no curso de Análise de dados
@@ -12,7 +12,7 @@ Formada pela EBAC (Escola Britânica de Artes Criativas & Tecnologia) em 06/25 n
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gaby-kern&repo=echo-music.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gaby-kern&repo=Biblioteca_fisica&theme=dark)](https://github.com/gaby-kern/Biblioteca_fisica)
 
 
 ### Linguagens utilizadas
